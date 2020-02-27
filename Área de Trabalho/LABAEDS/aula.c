@@ -121,7 +121,7 @@ int main()
 		}
 		maxmin1(p);
 		maxmin2(p);
-		maxmin3(p);
+		maxmin3(&p);
  return 0;
 }
 		
